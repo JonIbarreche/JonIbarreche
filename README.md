@@ -1,5 +1,5 @@
-### Hey! I'm **Jon Ibarreche** :zap:
----
+## Hey! I'm **Jon Ibarreche** :zap:
+
 
 :mortar_board: **[University of Deusto's](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto) Computer Engineering student**
 
@@ -9,7 +9,7 @@
 
 ---
 
-### Contact
+### Contact :satellite:
 
 :e-mail: **jon.ibarreche@opendeusto.es**
 
