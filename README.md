@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey! I'm **Jon Ibarreche** :zap:
+---
 
-<!--
-**JonIbarreche/JonIbarreche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:mortar_board: **[University of Deusto's](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto) Computer Engineering student**
 
-Here are some ideas to get you started:
+:hourglass: **21 years old**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:city_sunset: **Bilbao, Spain**
+
+---
+
+### Contact
+
+:e-mail: **jon.ibarreche@opendeusto.es**
+
+:mailbox_with_mail: **[LinkedIn](https://www.linkedin.com/in/jon-ibarreche-arroyo-a870b116b/)**
