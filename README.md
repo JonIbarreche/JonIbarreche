@@ -7,10 +7,22 @@
 
 :city_sunset: **Bilbao, Spain**
 
----
+
+### Status :fire:
+
+<div align="left">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JonIbarreche&theme=omni)](https://git.io/streak-stats)
+
+</div>
+
 
 ### Contact :satellite:
+
+
 
 :e-mail: **jon.ibarreche@opendeusto.es**
 
 :mailbox_with_mail: **[LinkedIn](https://www.linkedin.com/in/jon-ibarreche-arroyo-a870b116b/)**
+  
+
