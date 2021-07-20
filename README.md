@@ -10,16 +10,17 @@
 
 ### Status :fire:
 
-<div align="left">
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JonIbarreche&theme=omni)](https://git.io/streak-stats)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonIbarreche"/>
+
+
 
 </div>
 
 
 ### Contact :satellite:
-
-
 
 :e-mail: **jon.ibarreche@opendeusto.es**
 
