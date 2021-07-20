@@ -10,10 +10,10 @@
 
 ### Status :fire:
 
-<div align="center">
+<div align="left">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JonIbarreche&theme=omni)](https://git.io/streak-stats)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonIbarreche"/>
+<!--- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonIbarreche"/> --->
 
 
 
