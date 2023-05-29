@@ -3,7 +3,7 @@
 
 :mortar_board: **[University of Deusto's](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto) Computer Engineering student**
 
-:hourglass: **21 years old**
+:hourglass: **22 years old**
 
 :city_sunset: **Bilbao, Spain**
 
@@ -23,6 +23,6 @@
 
 :e-mail: **jon.ibarreche@opendeusto.es**
 
-:mailbox_with_mail: **[LinkedIn](https://www.linkedin.com/in/jon-ibarreche-arroyo-a870b116b/)**
+:mailbox_with_mail: **[LinkedIn](https://www.linkedin.com/in/jonibarreche/)**
   
 
