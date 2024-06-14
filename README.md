@@ -1,9 +1,10 @@
-## Hey! I'm **Jon Ibarreche** :zap:
+<h1>Hi Traveller, I am Jon Ibarreche </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
+:mortar_board: **[University of Deusto's](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto) Computer Engineer**
 
-:mortar_board: **[University of Deusto's](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto) Computer Engineering student**
+:mortar_board: **[University of Granada](https://www.ugr.es/) Master's degree, Data Science**
 
-:hourglass: **22 years old**
+:hourglass: **24 years old**
 
 :city_sunset: **Bilbao, Spain**
 
