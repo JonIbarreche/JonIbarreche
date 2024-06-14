@@ -1,9 +1,9 @@
 <h1>Hi Traveller, I am Jon Ibarreche </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px"></h1>
 
-<img align='right' src="https://github.com/JonIbarreche/JonIbarreche/blob/main/img/Yo-D.jpg"/>
+<img align='right' src="https://github.com/JonIbarreche/JonIbarreche/blob/main/img/Yo-D.jpg" width="400"/>
 
-<a href="https://www.linkedin.com/in/jonibarreche/"><img src="https://github.com/JonIbarreche/JonIbarreche/blob/main/img/linkedin.png" width="40" /></a>
-<a href="https://github.com/JonIbarreche"><img src="https://github.com/JonIbarreche/JonIbarreche/blob/main/img/github-logo.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/jonibarreche/"><img src="https://github.com/JonIbarreche/JonIbarreche/blob/main/img/linkedin.png" width="50" /></a>
+<a href="https://github.com/JonIbarreche"><img src="https://github.com/JonIbarreche/JonIbarreche/blob/main/img/github-logo.png" width="50" /></a>
 
 <h3>What I do? 👨‍💻</h3>
 <details>
