@@ -39,7 +39,8 @@ in the context of the European Single Market</a></li>
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
-  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
+  A passionate individual who always thrive to work on end to end
+  products which develop sustainable and scalable social and
   technical systems to create impact.<br>
   My name describes my qualities,
   J: Jovial
@@ -51,9 +52,22 @@ in the context of the European Single Market</a></li>
   <summary>How can I believe that you are good at what you do? 🤷‍♂️</summary>
   <ul>
     <li>Since 2016, (I was 16 years old) I have had a great passion for computer science, starting my journey back then and continually learning ever since.</li>
-    <li>In 2023, I graduated with a degree in Computer Engineering from the [University of Deusto](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto). I tackled various projects, both in backend development with a wide range of technologies and different architectures such as microservices, monolithic, and serverless.</li>
-    <li>In 2023, I worked for [NTT Data BBVA](https://es.nttdata.com/), where I was involved in various data-driven projects.</li>
-    <li>In 2024, I completed a Master's degree in Data Science at the [University of Granada](https://www.ugr.es/). During this time, I worked on a wide variety of projects involving machine learning, artificial intelligence, and data analysis.</li>
+    <li>In 2023, I graduated with a degree in Computer Engineering from the <a href="https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto">University of Deusto</a>. I tackled various projects, both in backend development with a wide range of technologies and different architectures such as microservices, monolithic, and serverless.</li>
+    <li>In 2023, I worked for <a href="https://es.nttdata.com/">NTT Data BBVA</a>, where I was involved in various data-driven projects.</li>
+    <li>In 2024, I completed a Master's degree in Data Science at the <a href="https://www.ugr.es/">University of Granada</a>. During this time, I worked on a wide variety of projects involving machine learning, artificial intelligence, and data analysis.</li>
+  </ul>
+</details>
+<details>
+<summary>Do you have official certifications? 📜</summary>
+  <ul>
+    <li><a href="https://www.coursera.org/account/accomplishments/certificate/7RKBK4GWEGRL">Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/certificate/LH29Z2JYDF6L">Structuring Machine Learning Projects</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/certificate/VA7L9D4Q4WSA">Neural Networks and Deep Learning</a></li>
+    <li><a href="https://courses.cognitiveclass.ai/certificates/09d4bc73782a4d3db91b8b13414df2fa">Machine Learning with Python</a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/375a695db3a1d19e6496630a9794baea9e93a4c857cf0ff096dfaa75dc8b97e6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bx%2F2DZhYfTzGJioCYjyMGqA%3D%3D">Deploying Scalable Machine Learning for Data Science</a></li>
+    <li><a href="https://www.udemy.com/certificate/UC-1413310e-8af8-477e-9228-b5dd224ab0fc/">Programming in Python</a></li>
+    <li><a href="https://www.linkedin.com/learning/certificates/d29c6b6393ddd457faed70f7a10db35857ad2b9c04ec4d685b981f9f06cb6ff6">Introduction to Large Language Models</a></li>
+    <li>Many more in the future...</li>
   </ul>
 </details>
 
