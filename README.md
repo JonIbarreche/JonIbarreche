@@ -75,7 +75,7 @@ Solutions Engineer • Technical Advisory • POC/POV • Discovery • Technica
 Large Language Models (LLMs) • Semantic Search • Data Pipelines • APIs • Machine Learning • Deep Learning • Transformers
 
 **Languages:**  
-Spanish (Native) • English (Fluent, B2) • Basque (Fluent)
+Spanish (Native) • English (Fluent) • Basque (Fluent)
 
 ---
 
@@ -119,7 +119,7 @@ Spanish (Native) • English (Fluent, B2) • Basque (Fluent)
 
 <h3>💡 About Me</h3>
 
-A passionate computer engineer who thrives on bridging the gap between complex AI/LLM technologies and real-world business outcomes. I love translating technical complexity into clear decisions and next steps for stakeholders.
+A passionate solutions engineer who thrives on bridging the gap between complex AI/LLM technologies and real-world business outcomes. I love translating technical complexity into clear decisions and next steps for stakeholders.
 
 **My approach:**
 - **J**ovial - bringing positive energy to technical challenges
@@ -142,7 +142,7 @@ A passionate computer engineer who thrives on bridging the gap between complex A
 
 <h3>📫 Let's Connect!</h3>
 
-Website: **[jonibarreche.com](https://jonibarreche.com)** • LinkedIn: **[linkedin.com/in/jonibarreche](https://www.linkedin.com/in/jonibarreche/)** • Email: **jonibarretxe00@gmail.com** • Location: **Bilbao, Spain**
+Website: **[jonibarreche.com](https://jonibarreche.com)** • LinkedIn: **[linkedin.com/in/jonibarreche](https://www.linkedin.com/in/jonibarreche/)** • Email: **jonibarretxe00@gmail.com** • Location: **Eindhoven, NL**
 
 ---
 
